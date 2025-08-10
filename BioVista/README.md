@@ -1,6 +1,6 @@
 # BioVista
 
-BioVista consists of six evaluation tasks, including two end-to-end tasks and four component-level tasks. 
+该文件夹内部为评估系统。BioVista consists of six evaluation tasks, including two end-to-end tasks and four component-level tasks. 
 Here we detail the information on these six evaluation tasks.
 
 ## Statistics and Access of BioVista
